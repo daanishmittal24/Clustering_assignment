@@ -7,6 +7,10 @@ This repository contains a comparative performance study of different clustering
 
 [Open Colab Notebook](https://colab.research.google.com/drive/1m1N7oDMEmdQcYT7Lh742gAM6SqzTWMdt?usp=sharing)
 
+## spreadsheet with results
+
+[opne spreadsheet](https://docs.google.com/spreadsheets/d/1IONkZOIohj9GOr20oBo-hFiu6pQ7D0MYzKuwW0A-A_M/edit?usp=sharing)
+
 ## Dataset
 - [Wine Dataset from UCI](https://archive.ics.uci.edu/ml/datasets/wine)
 
